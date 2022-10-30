@@ -7,4 +7,10 @@ aerbd
 
 A_branch valtoztatsokkkk
 
+<<<<<<< HEAD
 3-as
+=======
+
+A Branch 2-es valtozatatas
+
+>>>>>>> 3e56785c05bb301d3a5fa79f60455334e6185c6e
